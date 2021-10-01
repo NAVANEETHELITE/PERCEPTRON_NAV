@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 USER_NAME = 'NAVANEETHELITE'
-PROJECT_NAME = 'PERCEPTRON-PYPI'
+PROJECT_NAME = 'PERCEPTRON_NAV'
 
 setuptools.setup(
     name= f'{PROJECT_NAME}-{USER_NAME}',
